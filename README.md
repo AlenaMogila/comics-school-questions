@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="ru" class="h-full">
  <head>
   <meta charset="UTF-8">
