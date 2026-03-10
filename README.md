@@ -114,7 +114,7 @@
      <h1 id="main-title" class="font-handwritten text-5xl md:text-6xl font-bold text-gray-800 relative z-10">📬 Почтовый ящик вопросов</h1>
      <div class="absolute -bottom-2 left-0 right-0 h-4 bg-yellow-300 -z-0 transform -rotate-1 rounded"></div>
     </div>
-    <p id="subtitle-text" class="mt-4 text-lg text-gray-700 font-semibold">Проект для урока окружающего мира, 2 класс</p>
+    <p id="subtitle-text" class="mt-4 text-lg text-gray-700 font-semibold">Случай на уроке Окружающего мира, 2 класс</p>
    </header><!-- Panel Navigation -->
    <div class="flex justify-center items-center gap-4 mb-6 px-4"><button id="prev-btn" class="panel-nav-btn bg-orange-500 hover:bg-orange-600 text-white font-bold py-2 px-4 rounded-full shadow-lg disabled:bg-gray-400" disabled> ← Назад </button>
     <div class="flex gap-2"><button class="panel-dot w-4 h-4 rounded-full bg-orange-500 border-2 border-gray-800 transition-all" data-panel="0"></button> <button class="panel-dot w-4 h-4 rounded-full bg-white border-2 border-gray-800 transition-all" data-panel="1"></button> <button class="panel-dot w-4 h-4 rounded-full bg-white border-2 border-gray-800 transition-all" data-panel="2"></button> <button class="panel-dot w-4 h-4 rounded-full bg-white border-2 border-gray-800 transition-all" data-panel="3"></button>
